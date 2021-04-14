@@ -2,11 +2,11 @@
 ## line 1-5
 
 ### install necessary dependencies
-#### express - server
-body-parser for - managing json objects
-cors  - allow cross origin / allow access from all ip addresses
-mongodb - database
-dotenv - .env file
+express - server\
+body-parser for - managing json objects\
+cors  - allow cross origin / allow access from all ip addresses\
+mongodb - database\
+dotenv - .env file\
 
 ## line 7-8
 create .env file on root folder and insert PORT=yourport and URL=yoururl in separate lines
