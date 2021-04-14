@@ -2,7 +2,7 @@
 ## line 1-5
 
 ### install necessary dependencies
-express - server
+#### express - server
 body-parser for - managing json objects
 cors  - allow cross origin / allow access from all ip addresses
 mongodb - database
